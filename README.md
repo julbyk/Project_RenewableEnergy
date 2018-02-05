@@ -9,3 +9,6 @@ Wind turbines and photovoltaic panels can significantly change local ground-leve
 ## Exploratory study of local climate for Alta Wind Energy Center wind farm
 
 For the exploratory study I have searched and determined the example of the wind power plant, and demostrated the its effect on the local climate.
+
+
+![Fig1]
